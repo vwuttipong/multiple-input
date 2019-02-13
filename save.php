@@ -10,6 +10,6 @@
 		echo "<li>$cOrder</li>";
 	}
 	echo "
-		<ol>
+		<ol>git remote add origin https://github.com/vwuttipong/multiple-input.git
 	";
 ?>
